@@ -15,6 +15,7 @@ import random
 sgd = gradient_descent_v2.SGD(...)
 from keras.optimizers import SGD
 
+
 words=[]
 classes = []
 documents = []
